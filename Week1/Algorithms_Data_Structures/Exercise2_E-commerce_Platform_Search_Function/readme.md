@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Search System
+# E-Commerce Search System
 
 This program represents a simple product search system for an e-commerce platform. It demonstrates two search strategies:
 
